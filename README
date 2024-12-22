@@ -1,73 +1,52 @@
+Mateusz Zwolinski
+
+Welcome to my GitHub profile! I'm Mateusz Zwolinski, a Design and Multimedia (DAM) student passionate about blending creativity with technology. This space is where I showcase my projects, experiments, and contributions as I learn and grow in the world of design and multimedia development.
+
+About Me
+
+Name: Mateusz Zwolinski
+
+Field of Study: Design and Multimedia (DAM)
+
+Passions: Graphic Design, Motion Graphics, Web Design, Interactive Media
+
+Tools & Skills:
+
+Graphic Design: Adobe Photoshop, Illustrator, Figma
+
+Motion Graphics: After Effects, Blender
+
+Web Development: HTML, CSS, JavaScript
+
+Multimedia: Audio/Video Editing with Premiere Pro, Audacity
+
 Projects
 
 Here are some highlights of what I’m working on:
 
 1. Portfolio Website
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mateusz Zwolinski Portfolio</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <h1>Mateusz Zwolinski</h1>
-        <p>Design & Multimedia Portfolio</p>
-    </header>
-    <main>
-        <section>
-            <h2>About Me</h2>
-            <p>Passionate about blending creativity with technology.</p>
-        </section>
-        <section>
-            <h2>Projects</h2>
-            <ul>
-                <li>Portfolio Website</li>
-                <li>Animation Showcase</li>
-                <li>Interactive Web Experiences</li>
-            </ul>
-        </section>
-    </main>
-    <footer>
-        <p>Contact: mateusz.zwolinski@example.com</p>
-    </footer>
-</body>
-</html>
+A personal website to showcase my design and multimedia projects.
+
+Tech Stack: HTML, CSS, JavaScript, Figma (design mockups).
+
+Repository Link
 
 2. Animation Showcase
 
-// Example: Animation using GSAP
-import { gsap } from "gsap";
+A collection of short animations and motion graphics.
 
-gsap.to(".box", {
-  duration: 2,
-  x: 300,
-  rotation: 360,
-  ease: "power2.out"
-});
+Tools: Adobe After Effects, Blender.
+
+Repository Link
 
 3. Interactive Web Experiences
 
-/* Example CSS for Interactive Web Page */
-body {
-    font-family: Arial, sans-serif;
-    background: linear-gradient(to right, #ff7e5f, #feb47b);
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    color: white;
-}
+Experimental web-based interactive designs combining multimedia and coding.
 
-h1 {
-    font-size: 3rem;
-    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
-}
+Tech Stack: JavaScript, GSAP, WebGL.
+
+Repository Link
 
 Get in Touch
 
