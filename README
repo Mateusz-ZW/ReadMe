@@ -1,0 +1,88 @@
+Projects
+
+Here are some highlights of what I’m working on:
+
+1. Portfolio Website
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mateusz Zwolinski Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Mateusz Zwolinski</h1>
+        <p>Design & Multimedia Portfolio</p>
+    </header>
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>Passionate about blending creativity with technology.</p>
+        </section>
+        <section>
+            <h2>Projects</h2>
+            <ul>
+                <li>Portfolio Website</li>
+                <li>Animation Showcase</li>
+                <li>Interactive Web Experiences</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>Contact: mateusz.zwolinski@example.com</p>
+    </footer>
+</body>
+</html>
+
+2. Animation Showcase
+
+// Example: Animation using GSAP
+import { gsap } from "gsap";
+
+gsap.to(".box", {
+  duration: 2,
+  x: 300,
+  rotation: 360,
+  ease: "power2.out"
+});
+
+3. Interactive Web Experiences
+
+/* Example CSS for Interactive Web Page */
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white;
+}
+
+h1 {
+    font-size: 3rem;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+Get in Touch
+
+I’m always open to collaboration, feedback, and creative discussions. Feel free to reach out!
+
+Email: mateusz.zwolinski@example.com
+
+LinkedIn: Mateusz Zwolinski
+
+Portfolio: [Coming Soon!]
+
+Fun Fact
+
+When I’m not designing or coding, you can find me sketching, playing video games, or exploring new tools to enhance my creativity.
+
+Thank you for visiting my GitHub!
+
+If you find any of my projects interesting, don’t forget to leave a star or fork them to explore further. Let’s create something amazing together!
